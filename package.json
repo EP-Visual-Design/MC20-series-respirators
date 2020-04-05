@@ -1,0 +1,21 @@
+{
+  "name": "MC20-series-respirators",
+  "version": "1.0.0",
+  "description": "These designs are free to download and print for use.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EP-Visual-Design/MC20-series-respirators.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "EP Visual Design",
+    "email": "contact@epvisual.com",
+    "url": "http://epvisual.com"
+  },
+  "license": "MIT (modified)",
+  "bugs": {
+    "url": "https://github.com/EP-Visual-Design/MC20-series-respirators/issues"
+  },
+  "homepage": "https://github.com/EP-Visual-Design/MC20-series-respirators#readme"
+}

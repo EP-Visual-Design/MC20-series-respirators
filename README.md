@@ -1,5 +1,7 @@
 # MC20 Series 3D Printable Respirator
 
+[![Download master files](https://img.shields.io/static/v1?label=Download&message=MC20%20Master%20Templates&color=0cb08f&style=for-the-badge)](https://epvisual.com/cdn/MC20/MC20-series-respirators-master.zip)
+
 These designs are free to download and print for use.
 
 Contact us (contact@epvisual.com) to request use of our two available 3-D printers.
