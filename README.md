@@ -6,7 +6,7 @@ These designs are free to download and print for use.
 
 Contact us (contact@epvisual.com) to request use of our two available 3-D printers.
 
-**Note**: These are not approved by a medical agency.
+**Note**: Unlike N95 respirators, our respirator designs are not evaluated, tested, and approved by the National Institute for Occupational Safety and Health (NIOSH) as per the requirements in 42 CFR Part 84.
 
 ## Background
 
