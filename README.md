@@ -61,6 +61,7 @@ Our solid designs are made for reuse. Nooks and crannies are minimized, and poly
 
 * **MC2055N**: Supports a  55mm diameter X  15mm thick round filter.
 * **MC2055NS**: Supports a 55mm diameter X 5mm filter. Slimmer design, smaller, prints fastest.
+* **MC2055NS-K**: MC2055NS - scaled to 80% for kids.
 
 ![MC2055N with cap](images/MC2055N/MC2055N-with-cap-white.jpg)
 
@@ -74,6 +75,7 @@ Additional images available in the images directory.
 
 * **MC2080N**: Supports an 80mm diameter X 15mm thick round filter.
 * **MC2080NS**: Supports an 80mm diameter X 5mm thick round filter. Slimmer design, smaller, prints faster.
+* **MC2080NS-H****: MC2080NS that includes a hydration portal and storage for a 7mm, medical grade silicone tube.
 
 ![MC2080N with cap render](images/MC2080N/MC2080N-with-Cap.jpg)
 
