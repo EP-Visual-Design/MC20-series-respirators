@@ -139,3 +139,8 @@ Because the coronavirus lives on plastic for three days, the respirators need to
 
 * [Nexcare Absolute Waterproof Tape, Hypoallergenic, 1 Inch x 5 Yard Roll, 6 Rolls by Amazon.com](https://www.amazon.com/dp/B07GSQJH19/ref=cm_sw_em_r_mt_dp_U_YvZHEbYSG2HSN)
 * [3M 2770-2 Kind Removal Silicone Tape (Pack of 6) by Simply Prime](https://www.amazon.com/dp/B00KHVWXWA/ref=cm_sw_em_r_mt_dp_U_JxZHEbH61C4V0)
+
+#### Tubing For MC2080NS-H Model
+
+* [Pure Silicone Tubing - 1/8" ID x 1/4" OD - High Temp Kink-Free Hose Tube 500F (20 Feet)
+by Cold & Colder](https://www.amazon.com/dp/B07V5T2ZY1/ref=cm_sw_em_r_mt_dp_U_VFHJEbFDA5BSM)
